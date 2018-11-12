@@ -1,0 +1,1 @@
+Developed using latest EmguCV version.
